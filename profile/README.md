@@ -1,5 +1,5 @@
 <a href="https://kryo.to">
-  <img src="https://raw.githubusercontent.com/Kryoto-Dev/.github/main/assets/banner-profile.png" alt="Kryoto. Just games. No noise." width="100%" />
+  <img src="https://raw.githubusercontent.com/Kryoto-Dev/.github/main/assets/banner.gif" alt="Kryoto. Just games. No noise." width="100%" />
 </a>
 
 # Kryoto
