@@ -13,6 +13,7 @@ A game catalog. Find something, download it, play it. The site is **[kryo.to](ht
 | [kryoto-desktop](https://github.com/Kryoto-Dev/kryoto-desktop) | kryo.to as an app: find a game, download it and play it. Windows and Linux. |
 | [kryoto-mobile](https://github.com/Kryoto-Dev/kryoto-mobile) | Your PC in your pocket: its games, Play and Stop, and downloads, from an Android phone. |
 | [kryoto-auto-fixer](https://github.com/Kryoto-Dev/kryoto-auto-fixer) | Repairs a game that will not start, with Undo. |
+| [kryoto-permafrost](https://github.com/Kryoto-Dev/kryoto-permafrost) | Shrinks a game folder into a small repack with a setup of its own. |
 | [kryoto-online](https://github.com/Kryoto-Dev/kryoto-online) | Drop-in `steam_api.dll` that reports the game as Spacewar to a real Steam client. |
 | [kryoto-messaging](https://github.com/Kryoto-Dev/kryoto-messaging) | The end-to-end encryption behind Kryoto chat, in Rust. |
 | [kryoto-padmap](https://github.com/Kryoto-Dev/kryoto-padmap) | Controller layouts and button remapping, a small Rust crate. |
